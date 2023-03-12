@@ -6,3 +6,5 @@
 //V4 Clone sonrasi islem
 //v5 github dan kodlar
 //Aysenin yaptigi degisiklik
+//Master yeni commit
+
