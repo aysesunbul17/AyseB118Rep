@@ -4,7 +4,7 @@
 //V2 tamamlandi
 //V3 hizli push islemi
 //V4 Clone sonrasi islem
-//v5 github dan kodlar
+//Confict olusyturacak kodlar
 //Aysenin yaptigi degisiklik
 //Master yeni commit
 //AYse yeni degisiklik
