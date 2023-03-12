@@ -4,3 +4,4 @@
 //V2 tamamlandi
 //V3 hizli push islemi
 //V4 Clone sonrasi islem
+//v5 github dan kodlar
